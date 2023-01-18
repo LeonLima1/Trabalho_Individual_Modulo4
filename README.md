@@ -27,13 +27,13 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 # Perguntas para responder sobre o projeto:
 
-⇨ Existem outras entidades além dessas três? 
+# 1 ⇨ Existem outras entidades além dessas três? 
 Sim! Adicionei a tabela professores para ter um controle dos dados de cada professor e a tabela Curso_aluno para controle de frequência e data de inicio do curso do aluno!
 
-⇨ Quais são os principais campos e tipos?
+# 2 ⇨ Quais são os principais campos e tipos?
 O 'id' de cada tabela que geramos as chaves primárias e seus relacionamentos. A classificação dos campos das tabelas de acordo com o contexto dado!
 
-⇨ Como essas entidades estão relacionadas?
+# 3 ⇨ Como essas entidades estão relacionadas?
 Estão relacionadas pelos campos 'id' atraves de chaves primárias e chaves estrangeiras!
 
 # Estou deixando o código na pasta sql para mais informações!
